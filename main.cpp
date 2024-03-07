@@ -1,3 +1,7 @@
+//Прокопьева Марина НБИбд-02-23 
+// 1132237370
+
+
 #include <iostream>
 using namespace std;
 
