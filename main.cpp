@@ -1,3 +1,5 @@
+//Прокопьева Марина НБИбд-02-23
+
 #include <cmath>
 #include <iostream>
 #include <vector>
